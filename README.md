@@ -7,7 +7,8 @@
 - 量子计算与编程：快速浏览版，信息量不大
 
 ## 数学物理
-- 数学物理方法吴崇试
+- 数学物理方法吴崇试，配套课程 https://www.bilibili.com/video/BV13s411t7rZ/?spm_id_from=333.788.top_right_bar_window_custom_collection.content.click
+复数和傅立叶部分多注意
 - 数学物理方法解答
 
 ## 量子力学引论
